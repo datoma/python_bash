@@ -1,5 +1,6 @@
 # DeepBenchCollector
 cloned from https://github.com/pinae/DeepBenchCollector
+
 Run Baidu's DeepBench and collect the results.
 
 This Python script runs the GEMM, RNN and Conv-Benchmark from
